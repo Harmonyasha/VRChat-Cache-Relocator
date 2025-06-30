@@ -1,4 +1,4 @@
-# VRChat Cache Linker
+# VRChat Cache Relocator
 
 VRChat Cache Relocator is a C# tool that moves the VRChat cache folder (%LocalAppData%\..\LocalLow\VRChat\VRChat) to a user-specified directory (e.g., another drive) and creates a symbolic link to maintain game functionality. Ideal for freeing up space on your system drive or using a faster/larger disk.
 
